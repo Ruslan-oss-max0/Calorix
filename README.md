@@ -2,7 +2,7 @@
 
 A simple, offline calorie tracker for Android. Built with AI coding tools (Google AI Studio, Claude Code / Codex) and reviewed, tested and finished by hand.
 
-**Download:** see the latest APK in [Releases](../../releases) · **Demo video:** _add link here_
+**Download:** see the latest APK in [Releases](../../releases)
 
 ## Features
 - **Today screen** with a calorie ring showing progress toward your daily goal
@@ -32,7 +32,7 @@ app/src/main/java/com/calorix/app/
 
 ## Run it
 1. Open the project in Android Studio and press **Run**, or
-2. Install `app-release.apk` from Releases on an Android phone (allow installs from unknown sources).
+2. Install `Calorix-1.0.0.apk` from Releases on an Android phone (allow installs from unknown sources).
 
 ## Author
 Ruslan Kryzhanskiy · Telegram [@ruslan_num0](https://t.me/ruslan_num0) · [GitHub](https://github.com/Ruslan-oss-max0)
