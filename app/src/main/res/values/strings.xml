@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calorix</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="add_food_title">Add Food Entry</string>
+    <string name="edit_goal_title">Daily Calorie Goal</string>
+    <string name="default_goal">2000</string>
+</resources>
